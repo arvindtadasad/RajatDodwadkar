@@ -12,11 +12,11 @@ Hi, I'm Rajat, a student from India, currently studying Electronics and Communic
 
 ## I'm a Student and coder!! 
 
-- 🌱 I’m currently learning about Datascience
+- 🌱 I’m currently learning about Datascience, Machine learning and Artificial Nueral Networks.
 - 💬 Although I'm still a newbie, I am always happy to help with anything I know, ask me anything
 - 👯 I’m looking to collaborate with other here for projects
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact:  I enjoy Gaming, Travelling, and obviously Programming!
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact:  I enjoy Music, Gaming, Travelling, and obviously Programming!
 
 ### Spotify Playing 🎧
 
@@ -25,15 +25,15 @@ Hi, I'm Rajat, a student from India, currently studying Electronics and Communic
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/rajatdodwadkar/">
-  <img align="left" alt="Rajat's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Rajat's LinkdeIN" width="22px" src="https://img.favpng.com/25/4/21/linkedin-facebook-social-media-font-awesome-icon-png-favpng-QRqmwk6cNZRQZwxSAJpYRt4Rf_t.jpg" />
 </a>
 
 <a href="https://twitter.com/Rajatdodwadkar">
-  <img align="left" alt="Rajat Dodwadkar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Rajat Dodwadkar | Twitter" width="22px" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" />
 </a>
 
 <a href="https://www.instagram.com/rajat_dodwadkar/">
-  <img align="left" alt="Rajat's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Rajat's Instagram" width="22px" src="https://play-lh.googleusercontent.com/h9jWMwqb-h9hjP4THqrJ50eIwPekjv7QPmTpA85gFQ10PjV02CoGAcYLLptqd19Sa1iJ" />
 </a>
 
 
@@ -43,8 +43,11 @@ Hi, I'm Rajat, a student from India, currently studying Electronics and Communic
 <a >
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 <img align="left" alt="c" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Jupyter notebooks" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/250px-Jupyter_logo.svg.png" />
+<img align="left" alt="Anaconda navigator" width="26px" src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/pkgs/anaconda-navigator-1.4.3-py27_0/lib/python2.7/site-packages/anaconda_navigator/static/images/anaconda-icon-1024x1024.png" />
 </a>
 <br />
+
